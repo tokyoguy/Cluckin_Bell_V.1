@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873959025714",
+    "firebase_url": "https://cluckin-bell.firebaseio.com",
+    "project_id": "cluckin-bell",
+    "storage_bucket": "cluckin-bell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873959025714:android:f823cba4cf92372ca7602b",
+        "android_client_info": {
+          "package_name": "cluckinbell.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873959025714-cg8701gpb0tv1r3l2f33hj84n03bi4de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cluckinbell.com",
+            "certificate_hash": "75a6b74b4131c86996b39164c6f4f7128383e2f6"
+          }
+        },
+        {
+          "client_id": "873959025714-ghr7m32n1hdc9j596ofs9dj166hfg2v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCge_Xv8Mm0zor1xcPHkTBMQIqd8sw4bu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873959025714-ghr7m32n1hdc9j596ofs9dj166hfg2v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
